@@ -1,0 +1,12 @@
+{
+  "userId": "u_4886111579d6765a",
+  "projectId": "norvixn-198b900a",
+  "name": "NorviXN",
+  "board": {
+    "fqbn": "esp32:esp32:esp32s3"
+  },
+  "selections": null,
+  "serial": null,
+  "createdAt": "2026-10-13T07:58:41.140Z",
+  "updatedAt": "2026-10-13T07:58:41.140Z"
+}
